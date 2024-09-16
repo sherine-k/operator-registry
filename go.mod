@@ -6,6 +6,7 @@ toolchain go1.22.2
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.1
+	github.com/akrylysov/pogreb v0.10.2
 	github.com/blang/semver/v4 v4.0.0
 	github.com/containerd/containerd v1.7.16
 	github.com/containers/common v0.58.2
